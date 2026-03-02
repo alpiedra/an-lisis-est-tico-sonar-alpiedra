@@ -17,13 +17,14 @@ public final class Mazes {
     /**
      * 6x9 small maze with a shortest path distance of 5.656854249492381
      */
+    public final String s="        ";
     public static String[] testMaze1 = new String[]{
-            "        ",
+            s,
             "    X   ",
             "  S X G ",
             "    X   ",
-            "        ",
-            "        "};
+            s,
+            s};
 
 
     /**
